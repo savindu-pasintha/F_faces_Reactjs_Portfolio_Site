@@ -1,0 +1,49 @@
+.count {
+    margin: 10px 25px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    color: #7C8090;
+}
+
+.show {
+    margin: 10px 0px;
+   
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    color: #7C8090;
+}
+
+.buttons {
+    width: 90px;
+    height: 38px;
+    margin: 10px 25px;
+    border: 1px solid #DDDDDD;
+    border-radius: 23px;
+   
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.933333px;
+    color: #2D80F8;
+    background: #fff;
+}
+
+.buttons:hover {
+    border: 1px solid #2D80F8;
+    border-radius: 23px;
+   
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.933333px;
+    color: #2D80F8;
+    background: #E4EFFF;
+}
